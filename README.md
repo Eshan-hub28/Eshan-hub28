@@ -1,61 +1,61 @@
-# Hi there, I'm Eshan Ahmed 👋 🎓
+# Hi 👋, I'm Eshan Ahmed M 
+**AI/ML Engineering Intern | Full-Stack Developer | AWS Certified Cloud Practitioner**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Eshan-hub28&label=Profile%20views&color=0e75b6&style=flat" alt="Eshan-hub28" />
+  <img src="https://img.shields.io/badge/internship-Creozen_UK-blue?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Finalist-NIDAR_Drone_Competition-green?style=flat-square" />
 </p>
 
-### 🚀 About Me
-- 🎓 **Final Year CSE Student** passionate about building scalable AI-integrated applications.
-- 💻 **Full-Stack Developer** specialized in the **MERN Stack**.
-- 🤖 **ML & GenAI Enthusiast** with experience in Computer Vision and Predictive Analytics.
-- ☁️ **Cloud Practitioner** experienced in deploying apps on **AWS (EC2/S3)**, Vercel, and Render.
-- 👨‍💻 Currently working on an internship project involving [Insert Internship Topic].
+---
+
+### 👨‍💻 Professional Summary
+I am a final-year Computer Science Engineering student with a strong focus on **Computer Vision**, **Generative AI**, and **Scalable Full-Stack Systems**. Currently, I am an **AI/ML Engineering Intern at Creozen (UK)**, where I build real-time analytics solutions using **NVIDIA DeepStream** and **TensorRT**.
+
+- 🔭 **Currently Working On:** Real-time robotic grasping systems using YOLOv11 and depth estimation.
+- 🧪 **Research Interests:** Retrieval-Augmented Generation (RAG), LLMs (LLaMA/Gemini), and Autonomous Systems.
+- ☁️ **Cloud Expertise:** AWS Certified Cloud Practitioner; specialized in deploying ML models on cloud-native architectures.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Technical Toolbox
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| **Cloud/DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **AI / Machine Learning** | Python, PyTorch, Scikit-learn, FastAPI, YOLOv11, PaddleOCR, OpenCV |
+| **Deep Learning & CV** | CNNs, Transformers, DeepSORT, NVIDIA DeepStream, TensorRT, SAM |
+| **Generative AI / NLP** | BERT, LLaMA, Gemini, Whisper, RAG (Retrieval-Augmented Generation) |
+| **Full-Stack & Cloud** | React, Node.js, MongoDB, Java, C++, AWS, Vercel, Docker |
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Projects
 
-#### 📊 [Smart Academic Progress Prediction](https://github.com/Eshan-hub28/smart-academic-progress-prediction-system)
-*Full-Stack MERN Application*
-- Implemented **MERN stack** for tracking and predicting student GPA trends.
-- Built an **Analytics Engine** to identify "At-Risk" students with personalized improvement insights.
-- **Key Tech:** React, Node.js, MongoDB, JWT Authentication.
+#### 🤖 [Robotic Grasping System](https://github.com/Eshan-hub28) (YOLOv11)
+- Engineered a vision system for real-time hand-object interaction detection.
+- Implemented **Oriented Bounding Boxes (OBB)** and depth estimation for adaptive robotic handling.
 
-#### 🛡️ [Insurance Risk Analysis System](https://github.com/Eshan-hub28/insurance-risk)
-*ML + Flask + React*
-- Developed a predictive platform using **LightGBM models** to forecast medical and property risks.
-- Created a high-performance **Flask API** to serve real-time ML inferences.
-- **Key Tech:** Python, LightGBM, Flask, TypeScript, Vite.
+#### 🚁 [Aerial Human Detection](https://github.com/Eshan-hub28/human_detection_aerial)
+- Developed a "DroneVision" analytics engine for high-precision human detection from aerial footage.
+- Achieved real-time monitoring capabilities optimized for field surveillance.
 
-#### 🚁 [Human Detection from Aerial Imagery](https://github.com/Eshan-hub28/human_detection_aerial)
-*Computer Vision*
-- Built a CV system to detect humans in drone footage using image processing algorithms.
-- **Key Tech:** OpenCV, Python, Deep Learning.
+#### 🛡️ [Insurance Risk Predictor](https://github.com/Eshan-hub28/insurance-risk)
+- Built an end-to-end ML platform using **Random Forest** to forecast risk levels across healthcare and property insurance.
+- **Backend:** Flask API | **Frontend:** React + TypeScript.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshan-hub28&show_icons=true&theme=tokyonight&hide_border=true" alt="Eshan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-hub28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshan-hub28&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Eshan's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-hub28&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/eshanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshanahmed" height="30" width="40" /></a>
-<a href="https://eshanportfolio.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-portfolio-design-thinking-flatart-icons-flat-flatarticons.png" alt="portfolio" height="30" width="30" /></a>
-<a href="mailto:eshanking01@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
+<a href="mailto:eshanahmedm28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/eshanahmed" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://eshanportfolio.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>

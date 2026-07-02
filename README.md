@@ -1,54 +1,50 @@
-# Hi there! I'm Eshan Ahmed M 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Eshan-hub28/Eshan-hub28/blob/main/Eshan_Ahmed_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://linkedin.com/in/eshanahmed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+# ⚡ Eshan Ahmed M
+**AI/ML Engineering Intern @ Creozen, UK • Full-Stack Developer • AWS Certified**
 
-### 🚀 Professional Snapshot
-- 🎓 **Final Year CSE** @ Bannari Amman Institute of Technology (CGPA: 7.76)
-- 🏢 **AI/ML Engineering Intern** @ **Creozen, UK** (Working on NVIDIA DeepStream & TensorRT)
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🏆 **Finalist** @ NIDAR Drone Competition
+[Resume](https://github.com/Eshan-hub28/Eshan-hub28/blob/main/Eshan_Ahmed_Resume.pdf) • [Portfolio](https://eshanportfolio.vercel.app/) • [LinkedIn](https://linkedin.com/in/eshanahmed) • [Email](mailto:eshanahmedm28@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Skills
-
-| Category | Skills |
-| :--- | :--- |
-| **AI / Machine Learning** | Python, PyTorch, Scikit-learn, YOLOv11, Computer Vision, NLP |
-| **Generative AI** | RAG, LLaMA, Gemini, Whisper, BERT |
-| **Full Stack** | React, Node.js, Express, MongoDB, FastAPI |
-| **Cloud & Tools** | AWS, Git, Docker, Vercel, OnRender, NVIDIA DeepStream |
+### 🚀 At a Glance
+Final year CSE student focused on bridging the gap between **AI Research** and **Scalable Production**. 
+Currently optimizing real-time vision pipelines with **NVIDIA DeepStream** and **TensorRT**.
 
 ---
 
-### 🌟 Featured Projects
+### 🛠️ Tech Stack
 
-- **[Robotic Grasping System](https://github.com/Eshan-hub28)**: Engineered a vision system using **YOLOv11** and OBB for real-time robotic interaction.
-- **[Insurance Risk Predictor](https://github.com/Eshan-hub28/insurance-risk)**: ML platform using **Random Forest** to predict risk levels with a React/Flask architecture.
-- **[Aerial Human Detection](https://github.com/Eshan-hub28/human_detection_aerial)**: DroneVision engine for high-precision surveillance monitoring.
+**Core AI & Vision**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
----
+**Web & Cloud**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshan-hub28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-hub28&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+**Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
-- **Email:** [eshanahmedm28@gmail.com](mailto:eshanahmedm28@gmail.com)
-- **Portfolio:** [eshanportfolio.vercel.app](https://eshanportfolio.vercel.app/)
-- **LinkedIn:** [in/eshanahmed](https://linkedin.com/in/eshanahmed)
+### 💎 Featured Work
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
+**[Robotic Grasping System](https://github.com/Eshan-hub28)**  
+*Computer Vision • YOLOv11 • Depth Estimation*  
+Developed an adaptive vision system using Oriented Bounding Boxes (OBB) for precision robotic manipulation.
+
+**[Insurance Risk Predictor](https://github.com/Eshan-hub28/insurance-risk)**  
+*Machine Learning • Flask • TypeScript*  
+A data-driven risk assessment platform utilizing LightGBM and Random Forest for multi-sector insurance forecasting.
+
+**[Aerial Human Detection](https://github.com/Eshan-hub28/human_detection_aerial)**  
+*Drone Vision • Object Tracking*  
+High-precision human analytics engine optimized for real-time aerial surveillance footage.
+
+---
+
+### 🏆 Achievements
+**AWS Certified Cloud Practitioner**  
+**Finalist** – NIDAR Drone Competition (National Level)  
+**Salesforce AI Associate**
+
+</div>

@@ -4,7 +4,7 @@
 ### **AI/ML Engineering Intern @ Creozen, UK • Full-Stack Developer • Cloud Architect**
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;NVIDIA+DeepStream+Expert;Full-Stack+MERN+Developer;AWS+Certified+Cloud+Practitioner;Computer+Vision+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;NVIDIA+DeepStream+Expert;Full-Stack+MERN+Developer;AWS+Certified+Cloud+Practitioner;Computer+Vision+Specialist;YOLOv11+Practitioner" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/Eshan-hub28/Eshan-hub28/blob/main/Eshan_s_Resume.pdf">
@@ -20,35 +20,26 @@
 
 ---
 
-### 🏆 Professional Milestones
-<!-- GitHub Trophies -->
+## 🛠️ Tech Stack & Specialized Expertise
+
+### 🤖 AI, Machine Learning & Computer Vision
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Eshan-hub28&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,opencv" alt="AI Stack" />
+  <br>
+  <b>Specialties:</b> YOLOv11 • NVIDIA DeepStream • TensorRT • RAG • LLMs (LLaMA/Gemini)
 </p>
 
----
+### 💻 Full-Stack Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind" alt="Web Stack" />
+</p>
 
-### 🛠️ Tech Stack & Expertise
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png"/><br/>
-      <b>AI & Computer Vision</b><br/>
-      <sub>PyTorch • YOLOv11 • OpenCV • NVIDIA DeepStream • TensorRT • FastAPI</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/000000/code.png"/><br/>
-      <b>Full-Stack Development</b><br/>
-      <sub>React • Node.js • TypeScript • MongoDB • Express • Java • C++</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/000000/cloud.png"/><br/>
-      <b>Cloud & Deployment</b><br/>
-      <sub>AWS (Certified) • Docker • Git • Vercel • OnRender • GitHub Actions</sub>
-    </td>
-  </tr>
-</table>
+### ☁️ Cloud, DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel" alt="Cloud Stack" />
+  <br>
+  <sub><b>AWS Certified Cloud Practitioner</b></sub>
+</p>
 
 ---
 
@@ -72,15 +63,11 @@
 
 ---
 
-### 📊 Performance Metrics & Activity
+### 📊 Activity & Performance Metrics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eshan-hub28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eshan-hub28&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-hub28&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,7 +81,7 @@
 
 <!-- Visitor Count -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Eshan-hub28&label=PORTFOLIO+VIEWS&color=36BCF7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Eshan-hub28&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
 </p>
 
 </div>
